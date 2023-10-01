@@ -8,6 +8,6 @@ My name is William Ellison.  I'm a data scientist and NLP programmer in training
 
 - 📫 How to reach me: You can reach out to me on LinkedIn, X, and Instagram using the links in my profile.
 
-- 😄 Pronouns: he/him/his (English); il/lui (français); él/ello (español); 他（中文）; 彼（日本語）; on/jego (polski)
+- 😄 Pronouns: he/him/his (English); il/lui (français); él/ello (español); 他（中文）; 彼（日本語）; on/jego (polski).
 
-- ⚡ Fun fact: I speak four foreign languages to various degrees of fluency: French, Spanish, Mandarin Chinese, and Japanese.  At the time of writing, I'm going to be starting my study of Polish soon.
+- ⚡ Fun fact: I speak four foreign languages to various degrees of fluency: French, Spanish, Mandarin Chinese, and Japanese.  At the time of writing, I'm going to be starting my study of Polish soon.  Additionally, I'm a keen conlanger, and some of my conlang projects will end up with repositories here.
