@@ -2,7 +2,7 @@
 
 Hello!  My name is William Ellison.  I'm a software hobbyist and student of business and data science.  In my off time, I'm an amateur linguist and mathematician, a keen [conlanger](https://conlang.org), and a polyglot-in-training.
 
-Programming languages: Python, C, JavaScript
+Programming languages: Python, C, C++, R, JavaScript under strenuous protest
 
 Human languages: English, French, German, Spanish, Mandarin Chinese
 
