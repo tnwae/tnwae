@@ -1,5 +1,16 @@
-Math and healthcare nerd from the Tennessee valley.  Dividing my time between auditing, Thomas Hardy, and mathematical statistics.
+Math and healthcare nerd from the Tennessee valley.  Dividing my time between auditing, Thomas Hardy, and mathematical statistics, with some C code for good measure.
 
-Not into fancy readmes or excessive frippery.  Just give me a command line, a Python interpreter, and enough jazz to last until the apocalypse.
+🎓 Education
+------------
+* Master of Big Data and Business Intelligence: European Business School of Barcelona (in progress)
+* Master of Artificial Intelligence in Business: European Business School of Barcelona (in progress)
+* MBA in Financial Markets and Asset Management: European Business School of Barcelona (2026)
+* Bachelor of Science in Computer Science: University of Tennessee (2011)
 
-This is an AI-free zone.  My actual, unexpurgated response to AI is: 🖕🏻
+🗣️ Languages
+------------
+* 🇺🇸 English
+* 🇫🇷 French
+* 🇲🇽 Spanish
+* 🇹🇼 Mandarin
+* 🇯🇵 Japanese
