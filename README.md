@@ -10,7 +10,13 @@ Math and healthcare nerd from the Tennessee valley.  Dividing my time between au
 🗣️ Languages
 ------------
 * 🇺🇸 English
-* 🇫🇷 French
-* 🇲🇽 Spanish
-* 🇹🇼 Mandarin
-* 🇯🇵 Japanese
+* 🇫🇷 French (français)
+* 🇲🇽 Spanish (español)
+* 🇹🇼 Mandarin (普通话)
+* 🇯🇵 Japanese (日本語)
+
+☎️ Getting In Touch
+-------------------
+* LinkedIn (<https://linkedin.com/in/tnwae>)
+* GitHub (you're already here, _genius_)
+* Email (<tnwae@pm.me>)
